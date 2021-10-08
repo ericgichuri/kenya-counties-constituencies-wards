@@ -1,0 +1,64 @@
+.projects{
+	background-color: orange;
+	box-shadow: 0 10px 10px 0 dimgray;
+	padding-left:30px ;
+
+}
+.projects h4{
+	font-weight: bold;
+	margin-bottom: 20px;
+	color: indigo;
+}
+.projects .projectholder{
+	display: flex;
+	overflow-x: scroll;
+
+}
+img{
+	width: 200px;
+	height: 200px;
+}
+.projects .project1,.projects .project2,.projects .project3,.projects .project4,.projects .project5{
+	width: 300px;
+	height: auto;
+}
+.btnexplore{
+	width: 100px;
+	height: 30px;
+	cursor: pointer;
+	font-weight: bold;
+	background-color: #333333;
+	color: gold;
+	border: none;
+}
+.projects .project1 .imgfirst img{
+	width: 200px;
+	height: 150px;
+	margin-left: 20px;
+}
+.projects .project2 .imgfirst img{
+	width: 200px;
+	height: 150px;
+	margin-left: 20px;
+}
+.projects .project3 .imgfirst img{
+	width: 200px;
+	height: 150px;
+	margin-left: 20px;
+}
+.projects .project4 .imgfirst img{
+	width: 200px;
+	height: 150px;
+	margin-left: 20px;
+}
+.projects .project5 .imgfirst img{
+	width: 200px;
+	height: 150px;
+	margin-left: 20px;
+
+
+}
+
+body{
+	padding: 20px;
+}
